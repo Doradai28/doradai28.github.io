@@ -29,7 +29,7 @@ I am studying at NEUIR Lab under the guidance of Associate Professor [Zhenghao L
 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/merged-image.png' alt="paper teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Attention_Floating.png' alt="paper teaser" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Revealing the Attention Floating Mechanism in Masked Diffusion Models
