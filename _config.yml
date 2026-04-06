@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xin Dai"
-  avatar           : "daixin.jpg"
+  avatar           : "/images/daixin.jpg"
   bio              : "戴鑫"
   location         : "Beijing, China"
   employer         :

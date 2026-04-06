@@ -107,3 +107,27 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.paper-tag {
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.15rem 0.7rem;
+    border-radius: 999px;
+    color: white;
+    background-color: #3b82f6;
+    font-size: 0.8em;
+    font-weight: 600;
+}
+
+.paper-tag-ccf-a {
+    background-color: #dc2626;
+}
+
+.paper-tag-ccf-b {
+    background-color: #2563eb;
+}
+
+.paper-tag-ccf-c {
+    background-color: #059669;
+}
