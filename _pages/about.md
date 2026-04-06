@@ -29,34 +29,6 @@ I am studying at NEUIR Lab under the guidance of Associate Professor [Zhenghao L
 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2026</div><img src='images/LegalDelta.png' alt="paper teaser" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### LegalΔ: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain
-
-**Xin Dai\***, Buqiang Xu\*, Zhenghao Liu†, Yukun Yan, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Ge Yu
-
-[**📃Paper**](https://arxiv.org/abs/2508.12281) | [**💻Code**](https://github.com/NEUIR/LegalDelta) | <span class="paper-tag paper-tag-ccf-b">CCF-B</span>
-
-- This work introduces a reinforcement learning framework for legal LLMs that explicitly encourages high-quality chain-of-thought reasoning through information gain. It improves both prediction accuracy and interpretability, making legal judgments more reliable and better grounded in multi-step reasoning.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA2025</div><img src='images/LegalDuet.png' alt="paper teaser" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### LegalDuet: Learning Fine-Grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning
-
-Buqiang Xu\*, **Xin Dai\***, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu
-
-[**📃Paper**](https://link.springer.com/chapter/10.1007/978-981-95-3453-1_23) | [**💻Code**](https://github.com/NEUIR/LegalDuet) | <span class="paper-tag paper-tag-ccf-c">CCF-C</span>
-
-- This work proposes a dual-view contrastive learning framework to learn fine-grained representations for legal cases and judgments. By jointly modeling case similarity and decision-level distinctions, it improves legal judgment prediction on challenging and easily confusable cases.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Attention_Floating.png' alt="paper teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,6 +53,34 @@ Peidong Wang\*, Zhiming Ma\*, **Xin Dai**\*, Yongkang Liu, Shi Feng, Xiaocui Yan
 [**📃Paper**](https://arxiv.org/abs/2601.01392) | [**💻Code**](https://github.com/Control-derek/SAFE-QAQ) | <span class="paper-tag paper-tag-ccf-a">CCF-A</span>
 
 - This work presents an end-to-end audio-text fraud detection framework that directly models both speech signals and textual content with slow-thinking reinforcement learning. It captures fine-grained acoustic cues missed by text-only methods and supports more robust and real-time fraud detection.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2026</div><img src='images/LegalDelta.png' alt="paper teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### LegalΔ: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain
+
+**Xin Dai\***, Buqiang Xu\*, Zhenghao Liu†, Yukun Yan, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Ge Yu
+
+[**📃Paper**](https://arxiv.org/abs/2508.12281) | [**💻Code**](https://github.com/NEUIR/LegalDelta) | <span class="paper-tag paper-tag-ccf-b">CCF-B</span>
+
+- This work introduces a reinforcement learning framework for legal LLMs that explicitly encourages high-quality chain-of-thought reasoning through information gain. It improves both prediction accuracy and interpretability, making legal judgments more reliable and better grounded in multi-step reasoning.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA2025</div><img src='images/LegalDuet.png' alt="paper teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### LegalDuet: Learning Fine-Grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning
+
+Buqiang Xu\*, **Xin Dai\***, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu
+
+[**📃Paper**](https://link.springer.com/chapter/10.1007/978-981-95-3453-1_23) | [**💻Code**](https://github.com/NEUIR/LegalDuet) | <span class="paper-tag paper-tag-ccf-c">CCF-C</span>
+
+- This work proposes a dual-view contrastive learning framework to learn fine-grained representations for legal cases and judgments. By jointly modeling case similarity and decision-level distinctions, it improves legal judgment prediction on challenging and easily confusable cases.
 
 </div>
 </div>
