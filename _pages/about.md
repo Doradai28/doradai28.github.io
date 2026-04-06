@@ -29,7 +29,7 @@ I am studying at NEUIR Lab under the guidance of Associate Professor [Zhenghao L
 
 > \* indicates **equal contribution**, and † indicates **corresponding author**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Attention_Floating.png' alt="paper teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2026</div><img src='images/Attention_Floating.png' alt="paper teaser" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Revealing the Attention Floating Mechanism in Masked Diffusion Models
@@ -57,7 +57,7 @@ Peidong Wang\*, Zhiming Ma\*, **Xin Dai**\*, Yongkang Liu, Shi Feng, Xiaocui Yan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2026</div><img src='images/LegalDelta.png' alt="paper teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2026</div><img src='images/LegalDelta.png' alt="paper teaser" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### LegalΔ: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain
@@ -71,7 +71,7 @@ Peidong Wang\*, Zhiming Ma\*, **Xin Dai**\*, Yongkang Liu, Shi Feng, Xiaocui Yan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA2025</div><img src='images/LegalDuet.png' alt="paper teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADMA2025</div><img src='images/LegalDuet.png' alt="paper teaser" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### LegalDuet: Learning Fine-Grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning
