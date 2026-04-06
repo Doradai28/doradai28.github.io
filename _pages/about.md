@@ -32,17 +32,13 @@ I am studying at NEUIR Lab under the guidance of Associate Professor [Zhenghao L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2026</div><img src='images/LegalDelta.png' alt="paper teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### Legal: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain
-
-<span class="paper-tag paper-tag-ccf-b">CCF-B</span>
+### LegalΔ: Enhancing Legal Reasoning in LLMs via Reinforcement Learning with Chain-of-Thought Guided Information Gain
 
 **Xin Dai\***, Buqiang Xu\*, Zhenghao Liu†, Yukun Yan, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Ge Yu
 
-[**📃Paper**](https://arxiv.org/abs/2508.12281) | [**💻Code**](https://github.com/NEUIR/LegalDelta)
+[**📃Paper**](https://arxiv.org/abs/2508.12281) | [**💻Code**](https://github.com/NEUIR/LegalDelta) | <span class="paper-tag paper-tag-ccf-b">CCF-B</span>
 
-*arXiv preprint arXiv:2508.12281, 2025* <strong><span class='show_paper_citations' data='RGAg8W8AAAAJ:u-x6o8ySG0sC'></span></strong>
-
-- This work enhances legal reasoning in LLMs via reinforcement learning with chain-of-thought guided information gain, improving both judgment accuracy and interpretability.
+- This work introduces a reinforcement learning framework for legal LLMs that explicitly encourages high-quality chain-of-thought reasoning through information gain. It improves both prediction accuracy and interpretability, making legal judgments more reliable and better grounded in multi-step reasoning.
 
 </div>
 </div>
@@ -52,15 +48,11 @@ I am studying at NEUIR Lab under the guidance of Associate Professor [Zhenghao L
 
 ### LegalDuet: Learning Fine-Grained Representations for Legal Judgment Prediction via a Dual-View Contrastive Learning
 
-<span class="paper-tag paper-tag-ccf-c">CCF-C</span>
-
 Buqiang Xu\*, **Xin Dai\***, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu
 
-[**📃Paper**](https://link.springer.com/chapter/10.1007/978-981-95-3453-1_23) | [**💻Code**](https://github.com/NEUIR/LegalDuet)
+[**📃Paper**](https://link.springer.com/chapter/10.1007/978-981-95-3453-1_23) | [**💻Code**](https://github.com/NEUIR/LegalDuet) | <span class="paper-tag paper-tag-ccf-c">CCF-C</span>
 
-*International Conference on Advanced Data Mining and Applications, 337-352, 2025* <strong><span class='show_paper_citations' data='RGAg8W8AAAAJ:d1gkVwhDpl0C'></span></strong>
-
-- This work learns fine-grained legal case representations through dual-view contrastive learning to improve legal judgment prediction.
+- This work proposes a dual-view contrastive learning framework to learn fine-grained representations for legal cases and judgments. By jointly modeling case similarity and decision-level distinctions, it improves legal judgment prediction on challenging and easily confusable cases.
 
 </div>
 </div>
@@ -70,15 +62,11 @@ Buqiang Xu\*, **Xin Dai\***, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wan
 
 ### Revealing the Attention Floating Mechanism in Masked Diffusion Models
 
-<span class="paper-tag paper-tag-ccf-a">CCF-A</span>
+**Xin Dai**, Pengcheng Huang, Zhenghao Liu†, Shuo Wang, Yukun Yan, Chaojun Xiao, Yu Gu, Ge Yu, Maosong Sun
 
-**Xin Dai**, Pengcheng Huang, Zhenghao Liu†, Shuo Wang, Yukun Yan, Chaojun Xiao†, Yu Gu, Ge Yu, Maosong Sun
+[**📃Paper**](https://arxiv.org/abs/2601.07894) | [**💻Code**](https://github.com/NEUIR/Attention-Floating) | <span class="paper-tag paper-tag-ccf-a">CCF-A</span>
 
-[**📃Paper**](https://arxiv.org/abs/2601.07894) | [**💻Code**](https://github.com/NEUIR/Attention-Floating)
-
-*arXiv preprint arXiv:2601.07894, 2026* <strong><span class='show_paper_citations' data='RGAg8W8AAAAJ:2osOgNQ5qMEC'></span></strong>
-
-- This work reveals the attention floating mechanism in masked diffusion models and explains their strong in-context learning ability.
+- This work uncovers the attention floating mechanism in masked diffusion models, showing how attention anchors move dynamically across denoising steps and layers. The analysis provides a mechanistic explanation for their strong in-context learning behavior and strong performance on knowledge-intensive tasks.
 
 </div>
 </div>
@@ -88,15 +76,11 @@ Buqiang Xu\*, **Xin Dai\***, Zhenghao Liu†, Huiyuan Xie, Xiaoyuan Yi, Shuo Wan
 
 ### SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning
 
-<span class="paper-tag paper-tag-ccf-a">CCF-A</span>
-
 Peidong Wang\*, Zhiming Ma\*, **Xin Dai**\*, Yongkang Liu, Shi Feng, Xiaocui Yang, Wenxing Hu, Zhihao Wang, Mingjun Pan, Li Yuan, Daling Wang
 
-[**📃Paper**](https://arxiv.org/abs/2601.01392) | [**💻Code**](https://github.com/Control-derek/SAFE-QAQ)
+[**📃Paper**](https://arxiv.org/abs/2601.01392) | [**💻Code**](https://github.com/Control-derek/SAFE-QAQ) | <span class="paper-tag paper-tag-ccf-a">CCF-A</span>
 
-*arXiv preprint arXiv:2601.01392, 2026* <strong><span class='show_paper_citations' data='RGAg8W8AAAAJ:qjMakFHDy7sC'></span></strong>
-
-- This work introduces an end-to-end audio-text fraud detection framework that uses slow-thinking reinforcement learning for robust real-time detection.
+- This work presents an end-to-end audio-text fraud detection framework that directly models both speech signals and textual content with slow-thinking reinforcement learning. It captures fine-grained acoustic cues missed by text-only methods and supports more robust and real-time fraud detection.
 
 </div>
 </div>
